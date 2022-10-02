@@ -1,0 +1,47 @@
+#EXTM3U
+
+#EXTINF:-1,11 - Repretel
+
+http://45.236.28.72:8000/play/a0ec/index.m3u8
+
+#EXTINF:-1,123 TV
+
+http://45.236.28.72:8000/play/a069/index.m3u8
+
+#EXTINF:-1,13-Sinart
+
+http://45.236.28.72:8000/play/a0bu/index.m3u8
+
+#EXTINF:-1,4 - Repretel
+
+http://45.236.28.72:8000/play/a0fb/index.m3u8
+
+#EXTINF:-1,42 - Extra TV 42
+
+http://45.236.28.72:8000/play/a0bv/index.m3u8
+
+#EXTINF:-1,6 - Repretel
+
+http://45.236.28.72:8000/play/a0ea/index.m3u8
+
+#EXTINF:-1,7-Teletica
+
+http://45.236.28.72:8000/play/a0eb/index.m3u8
+
+#EXTINF:-1,A&E
+
+http://45.236.28.72:8000/play/a0fh/index.m3u8
+
+#EXTINF:-1,ALBA TV
+
+http://45.236.28.72:8000/play/a06a/index.m3u8
+
+#EXTINF:-1,AMC
+
+http://45.236.28.72:8000/play/a0dk/index.m3u8
+
+#EXTINF:-1,ANTV
+
+http://45.236.28.72:8000/play/a067/index.m3u8
+
+#EXTINF:-1,AXN HD
